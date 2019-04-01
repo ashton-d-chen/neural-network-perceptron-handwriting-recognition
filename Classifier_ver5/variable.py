@@ -1,0 +1,8 @@
+TRAIN_NUM = 100
+AUTO_ITERATIONS=5
+USER_LABEL = 0
+USER_ITERATIONS=5
+POS_WEIGHT = 1
+NEG_WEIGHT = 1
+LEGAL_LABELS = range(10)		# number of labels
+iClassifier = 0
